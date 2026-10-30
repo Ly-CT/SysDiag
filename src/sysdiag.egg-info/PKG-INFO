@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: sysdiag
+Version: 0.1.0
+Summary: Diagnóstico básico de equipos Windows con reporte HTML y JSON
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
